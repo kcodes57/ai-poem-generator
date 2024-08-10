@@ -25,6 +25,9 @@ form {
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
   margin-bottom: 30px;
 }
+a {
+  color: #885df1;
+}
 
 .instructions {
   padding: 16px;
@@ -45,14 +48,20 @@ form {
   margin-left: 10px;
   border: none;
   padding: 15px;
-  font-size: 15px;
+  font-size: 18px;
 }
 .poem {
-  font-size: 16px;
+  font-size: 20px;
   background-color: white;
   padding: 20px;
   line-height: 2;
   font-weight: 500;
   border-left: #885df1;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+}
+
+footer {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 25px;
 }
