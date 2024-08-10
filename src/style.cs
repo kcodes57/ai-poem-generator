@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: rgb(255, 255, 255);
   font-family: Helvetica, Arial, sans-serif;
 }
 .container {
@@ -46,4 +46,13 @@ form {
   border: none;
   padding: 15px;
   font-size: 15px;
+}
+.poem {
+  font-size: 16px;
+  background-color: white;
+  padding: 20px;
+  line-height: 2;
+  font-weight: 500;
+  border-left: #885df1;
+  box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
 }
